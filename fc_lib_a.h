@@ -1,1 +1,1 @@
-int fc_lib_b_func(int a);
+int fc_lib_a_func(int a);
